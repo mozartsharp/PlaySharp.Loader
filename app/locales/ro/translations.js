@@ -23,7 +23,7 @@ const result = {
   "layout": {
     "logout": "Ieşire",
     "navigation": {
-      "applog": "Istoricul aplicaţiei",
+      "applog": "Jurnalul aplicaţiei",
       "assemblies": "Ansamble",
       "changelog": "Jurnalul modificărilor",
       "news": "Noutăţi",
@@ -36,7 +36,7 @@ const result = {
     "set": {
       "root": {
         "create": "Crează un set nou",
-        "default": "Profil principal {index}",
+        "default": "Profil standard {index}",
         "title": "Seturile mele"
       },
       "entry": {
