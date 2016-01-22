@@ -10,7 +10,7 @@ Open source parts of the new loader.
 
 lang tags: http://www.i18nguy.com/unicode/language-identifiers.html
 
-![tag to use](https://i.imgur.com/XMItNds.png)
+![tag to use](http://i.imgur.com/dz2grxS.png)
 
 Note: You don't need to translate the champions.js file, also do not include champions.js in the translation pull request unless the champions are named different (e.g in Korean, Japanese etc..)
 
