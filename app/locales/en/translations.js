@@ -4,45 +4,45 @@ import EN from './champions';
 const result = {
   "assemblies": {
     "buttons": {
-      "install": "Install",
-      "options": "Options"
+      "install": "Installera",
+      "options": "Val"
     },
     "search_by": {
-      "assemblies": "Champion",
-      "libraries": "Libraries",
-      "utilities": "Utilities"
+      "assemblies": "Karaktär",
+      "libraries": "Bibliotek",
+      "utilities": "Verktyg"
     },
-    "search_phrase": "Search for assemblies",
+    "search_phrase": "Sök för scripts",
     "sort_by": {
-      "last_update": "Last Update",
-      "name": "Name",
-      "rating": "Rating"
+      "last_update": "Senaste uppdateringen",
+      "name": "Namn",
+      "rating": "Betyg"
     },
-    "written_by": "This assembly is written by {author} and the last update was {until-now}"
+    "written_by": "Detta script är skrivet av {author} och senaste uppdateringen var {until-now}"
   },
   "layout": {
-    "logout": "Logout",
+    "logout": "Logga ut",
     "navigation": {
-      "applog": "Applog",
-      "assemblies": "Assemblies",
-      "changelog": "Changelog",
-      "news": "News",
-      "profiles": "Profiles",
-      "settings": "Settings"
+      "applog": "Apploggar",
+      "assemblies": "Scripts",
+      "changelog": "Uppdateringshistorik",
+      "news": "Nyheter",
+      "profiles": "Profiler",
+      "settings": "Inställningar"
     },
-    "welcome_back": "Welcome back, {username}!"
+    "welcome_back": "Välkommen tillbaks, {username}!"
   },
   "profiles": {
     "set": {
       "root": {
-        "create": "Create a new set",
-        "default": "Default Profile {index}",
-        "title": "My Sets"
+        "create": "Gör en ny grupp",
+        "default": "Standard Profil {index}",
+        "title": "Mina grupper"
       },
       "entry": {
-        "author": "Assembly Author",
-        "name": "Assembly Name",
-        "version": "Assembly Version"
+        "author": "Script Författare",
+        "name": "Script Namn",
+        "version": "Script Version"
       }
     }
   }
