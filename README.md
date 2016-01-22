@@ -14,4 +14,4 @@ lang tags: http://www.i18nguy.com/unicode/language-identifiers.html
 
 Note: You don't need to translate the champions.js file, also do not include champions.js in the translation pull request unless the champions are named different (e.g in Korean, Japanese etc..)
 
-Please make use of Atom, Sublime, Notepad or the default inline GitHub browser editor.
+Please make use of Atom, Sublime, Notepad++ or the default inline GitHub browser editor to keep the right encoding.
