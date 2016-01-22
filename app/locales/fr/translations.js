@@ -5,42 +5,42 @@ const result = {
   "assemblies": {
     "buttons": {
       "install": "Installer",
-      "options": "Réglages"
+      "options": "Option"
     },
     "search_by": {
       "assemblies": "Champions",
-      "libraries": "Bibliothèques",
+      "libraries": "Libraires",
       "utilities": "Utilitaires"
     },
-    "search_phrase": "Rechercher une Assembly",
+    "search_phrase": "Recherche d'assemblies",
     "sort_by": {
       "last_update": "Dernière mise à jour",
       "name": "Nom",
-      "rating": "Evaluation"
+      "rating": "Score"
     },
-    "written_by": "Cette Assembly est écrite par {author}, mise à jour pour la dernière fois le {until-now}"
+    "written_by": "Cet assembly est écrite par {author} et la dernière mise à jour était sur {until-now}"
   },
   "layout": {
-    "logout": "Se déconnecter",
+    "logout": "Déconnexion",
     "navigation": {
       "applog": "Log application",
       "assemblies": "Assemblies",
       "changelog": "Changelog",
-      "news": "Nouveautés",
+      "news": "Actualités",
       "profiles": "Profils",
       "settings": "Réglages"
     },
-    "welcome_back": "Bienvenu, {username}!"
+    "welcome_back": "Bienvenue, {username}!"
   },
   "profiles": {
     "set": {
       "root": {
-        "create": "Créer un nouveau profil",
+        "create": "Créez un nouveau jeu",
         "default": "Profil par défaut {index}",
-        "title": "Mes profils"
+        "title": "Mes jeux"
       },
       "entry": {
-        "author": "Auteur de l'Assembly",
+        "author": "Écrivain de l'Assembly",
         "name": "Nom de l'Assembly",
         "version": "Version de l'Assembly"
       }
