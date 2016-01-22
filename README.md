@@ -10,5 +10,9 @@ Open source parts of the new loader.
 
 lang tags: http://www.i18nguy.com/unicode/language-identifiers.html
 
+![tag to use](https://i.imgur.com/XMItNds.png)
+
 
 Note: You don't need to translate the champions.js file, also do not include it in the map unless the champions are named different (e.g Korean, Japanese)
+
+Please make use of Atom, Sublime, Notepad or the default inline GitHub browser editor.
