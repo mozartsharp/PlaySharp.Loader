@@ -21,7 +21,7 @@ const result = {
     "written_by": "Deze assembly is geschreven door {author} en de meest recente update was op {until-now}"
   },
   "layout": {
-    "logout": "Afmelden",
+    "logout": "Uitloggen",
     "navigation": {
       "applog": "Applog",
       "assemblies": "Assemblies",
