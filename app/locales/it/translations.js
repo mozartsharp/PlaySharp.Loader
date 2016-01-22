@@ -35,7 +35,7 @@ const result = {
   "profiles": {
     "set": {
       "root": {
-        "create": "Cre un nuovo gruppo",
+        "create": "Crea un nuovo gruppo",
         "default": "Profilo Predefinito {index}",
         "title": "I miei gruppi"
       },
