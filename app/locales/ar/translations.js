@@ -10,7 +10,7 @@ const result = {
     "search_by": {
       "assemblies": "الشخصية",
       "libraries": "المكاتب",
-      "utilities": "المساعد"
+      "utilities": "المساعدات"
     },
     "search_phrase": "ابحث عن اسمبليس",
     "sort_by": {
@@ -37,7 +37,7 @@ const result = {
       "root": {
         "create": "انتج مجموعة جديدة",
         "default": "الملف الافتراضي {index}",
-        "title": "مجموعاتي"
+        "title": "العنوان"
       },
       "entry": {
         "author": "مؤلف الاسمبلي",
